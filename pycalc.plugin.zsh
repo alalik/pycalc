@@ -1,12 +1,9 @@
-# ~/.oh-my-zsh/custom/plugins/pycalc/pycalc.plugin.zsh
+# ~/.oh-my-zsh/plugins/pycalc/pycalc.plugin.zsh
 
 # Enhanced pycalc: a Zsh function for advanced Python-powered calculations.
+
 # Allow `=` as a function name
 unsetopt equals
-
-# Default history file for interactive mode (not used without -i)
-PYCALC_HISTORY_FILE="$HOME/.pycalc_history"
-
 # Define `=` function
 '='() {
   local OPTIND opt

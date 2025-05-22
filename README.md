@@ -1,4 +1,4 @@
-# Pycalc Oh-My-Zsh Plugin
+# Pycalc [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) Plugin
 
 `pycalc` turns the `=` key into a powerful, Python‑backed calculator in your Zsh shell.
 
@@ -15,7 +15,7 @@
 
 ## Installation
 
-Clone the plugin repository and install it into your Oh-My-Zsh custom plugins directory:
+Clone the plugin repository and install it into your [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) custom plugins directory:
 
 ```bash
 git clone https://github.com/alalik/pycalc.git \
@@ -158,4 +158,4 @@ Try out a variety of built-in math functions (note the quotes around expressions
 
 ## License
 
-MIT © Khaled Alali
+pycalc is released under the [MIT license](LICENSE).
