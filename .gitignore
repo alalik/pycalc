@@ -1,0 +1,22 @@
+# MacOS metadata
+.DS_Store
+.vs_Code
+# Shell history and Python caches
+.pycalc_history
+__pycache__/
+*.py[cod]
+
+# IDE/project files
+.idea/
+.vscode/
+
+# Logs and runtime files
+*.log
+*.tmp
+
+# Coverage and test artifacts
+.coverage
+htmlcov/
+
+# OS-generated files
+Thumbs.db
